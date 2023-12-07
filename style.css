@@ -102,7 +102,7 @@ nav .container button #bar_3{
 /* heroarea-open */
 
 .heroarea{
-	background-image: url(../images/banner.jpg);
+	background-image: url(banner.jpg);
 	height: 70vh;
 	background-size: cover;
 	background-position: top center;
@@ -439,7 +439,7 @@ nav .container button #bar_3{
 /* form-sec-open */
 
 .form_sec{
-	background-image: url(../images/form.jpg);
+	background-image: url(form.jpg);
 	background-size: cover;
 	background-position: top center;
 	height: 70vh;
@@ -906,7 +906,7 @@ footer{
 /* heroarea-about-open */
 
 .heroarea_about{
-	background-image: url(../images/about-banner.jpg);
+	background-image: url(about-banner.jpg);
 	height: 35vh;
 	background-size: cover;
 	background-position: top center;
@@ -996,7 +996,7 @@ footer{
 /* testimonial-sec-open */
 
 .testimonial_sec{
-	background-image: url(../images/testimonial.jpg);
+	background-image: url(testimonial.jpg);
 	height: 60vh;	
 	background-position: top center;
 	background-size: cover;
@@ -1146,7 +1146,7 @@ footer{
 /* heroarea-contact-open */
 
 .heroarea_contact{
-	background-image: url(../images/contact-banner.jpg);
+	background-image: url(contact-banner.jpg);
 	height: 35vh;
 	background-size: cover;
 	background-position: top center;
@@ -1217,7 +1217,7 @@ footer{
 /* heroarea-appointment-open */
 
 .heroarea_appointment{
-	background-image: url(../images/appointment.jpg);
+	background-image: url(appointment.jpg);
 	height: 35vh;
 	background-size: cover;
 	background-position: top center;
